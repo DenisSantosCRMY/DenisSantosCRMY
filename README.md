@@ -8,9 +8,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Denis-SantosCRMY&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DenisSantosCRMY&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-SantosCRMY&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisSantosCRMY&layout=compact&theme=tokyonight)
 ---
 
 ## 🛠️ Tech Stack & Tools
